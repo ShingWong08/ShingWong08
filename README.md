@@ -1,7 +1,5 @@
-### Hi there 👋
-
-## About Me
-Hello there! It's ShingWong08 there, a technical enthusiast with a deep understanding and mastery of programming, networking, and cloud computing. I have a passion for Java, Python, and other programming languages and enjoy staying up-to-date with the latest advancements in these fields. With a blend of research and practical experience, I strive to deliver high-quality solutions.
+# About Me
+Hello! It's ShingWong08 there, a technical enthusiast with a deep understanding and mastery of programming, networking, and cloud computing. I have a passion for Java, Python, and other programming languages and enjoy staying up-to-date with the latest advancements in these fields. With a blend of research and practical experience, I strive to deliver high-quality solutions.
 
 ## Skills
 - Programming Languages: Java, Python
