@@ -15,5 +15,4 @@
 - I’m particularly interested in exploring the intersections of programming, networking, and cloud computing.
 - I enjoy tackling complex problems and finding innovative solutions.
 - Additionally, I value continuous learning and growth, always seeking opportunities to expand my skill set.
-
-## I look forward to connecting with like-minded individuals and contributing to impactful projects!
+- I look forward to connecting with like-minded individuals and contributing to impactful projects!
