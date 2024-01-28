@@ -1,5 +1,5 @@
 # About Me 🙋‍♂
-- Hello! It’s ShingWong08 here, a technical enthusiast with a deep understanding and mastery of programming, networking, and cloud computing.
+- Hello! It’s ShingWong08 here, a technical enthusiast student with a deep understanding and mastery of programming, networking, and cloud computing.
 - I have a passion for Java, Python, and other programming languages and enjoy staying up-to-date with the latest advancements in these fields.
 - With a blend of research and practical experience, I strive to deliver high-quality solutions.
 
@@ -18,7 +18,9 @@
 - I look forward to connecting with like-minded individuals and contributing to impactful projects!
 
 # Release Notes Style
+```diff
 + Added Something
 - Removed Something
 = Changed Something
 ! Patched Something
+```
