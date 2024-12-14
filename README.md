@@ -28,15 +28,11 @@ Hello World! I’m **ShingWong08**
 ---
 
 # Stats 📊  
-
 ### 🏆 GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShingWong08&show_icons=true&theme=tokyonight)](https://github.com/ShingWong08)  
 ### 📚 Most Used Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShingWong08&layout=compact&theme=tokyonight)](https://github.com/ShingWong08)  
 
----
-
 # Multiple README.md Language 🌏  
-[![zh-Hant-HK](https://img.shields.io/badge/lang-zh--Hant--HK-red.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hant-HK.md)  
-[![zh-Hant](https://img.shields.io/badge/lang-zh--Hant-blue.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hant.md)  
-[![zh-Hans](https://img.shields.io/badge/lang-zh--Hans-green.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hans.md)  
+[![zh-Hant-HK](https://img.shields.io/badge/lang-zh--Hant--HK-red.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hant-HK.md) [![zh-Hant](https://img.shields.io/badge/lang-zh--Hant-blue.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hant.md) [![zh-Hans](https://img.shields.io/badge/lang-zh--Hans-green.svg)](https://github.com/ShingWong08/ShingWong08/blob/main/README-zh-Hans.md)
+ 
