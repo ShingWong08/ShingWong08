@@ -33,7 +33,7 @@ Hello World! I’m **ShingWong08**
 
 # Stats 📊  
 ### 🏆 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShingWong08&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/ShingWong08)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShingWong08&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/ShingWong08)  
 ### 📚 Most Used Languages  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShingWong08&layout=compact&theme=tokyonight)](https://github.com/ShingWong08)  
 
