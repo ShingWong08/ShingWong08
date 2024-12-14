@@ -18,9 +18,9 @@ Hello World! I’m **ShingWong08**
   - *Generative AI and AIoT (GenAIoT) Coding Skills Education for Gifted Students* (2024)  
   - *Coding, Cryptography, and FinTech (CCF) Skills Education for Gifted Students* (2023)  
 - **Cloud Computing**
-  - Bridging Level (2024)
-  - Beginner Level (2023)
-  - Advanced Level (2022)
+  - *Bridging Level (2024)*
+  - *Beginner Level (2023)*
+  - *Advanced Level (2022)*
 
 ---
 
