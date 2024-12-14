@@ -1,5 +1,8 @@
 # About Me 🙋‍♂  
-Hi, I’m **ShingWong08**—a tech enthusiast passionate about programming, networking, and cloud computing. With a solid foundation in **Java**, **Python**, and emerging technologies, I strive to create high-quality solutions by blending research and hands-on experience.  
+Hello World! I’m **ShingWong08**
+- A tech enthusiast passionate about programming, networking, and cloud computing. 
+- With a solid foundation in **Java**, **Python**, and emerging technologies
+- I strive to create high-quality solutions by blending research and hands-on experience.  
 
 ---
 
