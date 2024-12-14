@@ -24,3 +24,9 @@
 = Changed Something
 ! Patched Something
 ```
+
+# Github Status
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ShingWong08&show_icons=true&theme=tokyonight)](https://github.com/ShingWong08)
+
+# Most Language Used
+[![GitHub Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ShingWong08)
