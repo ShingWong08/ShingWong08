@@ -1,30 +1,29 @@
-# About Me 🙋‍♂
-- Hello! It’s ShingWong08 here, a technical enthusiast student with a deep understanding and mastery of programming, networking, and cloud computing.
-- I have a passion for Java, Python, and other programming languages and enjoy staying up-to-date with the latest advancements in these fields.
-- With a blend of research and practical experience, I strive to deliver high-quality solutions.
+# About Me 🙋‍♂  
+Hi, I’m **ShingWong08**—a tech enthusiast passionate about programming, networking, and cloud computing. With a solid foundation in **Java**, **Python**, and emerging technologies, I strive to create high-quality solutions by blending research and hands-on experience.  
 
-# Skills 💪
-- Programming Languages: Java ☕, Python 🐍
-- Networking: Familiar with networking concepts and protocols 🌐
-- Cloud Computing: Knowledgeable about cloud computing principles and technologies ☁️
+---
 
-# Experience 🚀
-- Developed various projects utilizing Java and Python, showcasing my skills in creating efficient and scalable solutions.
+# Skills 💻  
+- **Programming Languages**: Java ☕, Python 🐍  
+- **Networking**: Familiar with concepts and protocols 🌐  
+- **Cloud Computing**: Strong understanding of cloud principles ☁️  
 
-# Interests ❤️
-- I’m particularly interested in exploring the intersections of programming, networking, and cloud computing.
-- I enjoy tackling complex problems and finding innovative solutions.
-- Additionally, I value continuous learning and growth, always seeking opportunities to expand my skill set.
-- I look forward to connecting with like-minded individuals and contributing to impactful projects!
+---
 
-# Release Notes Style
-```diff
-+ Added Something
-- Removed Something
-= Changed Something
-! Patched Something
-```
+# Learning Journey 🚀  
+- **Gifted Education Fund**  
+  - *Generative AI and AIoT (GenAIoT) Coding Skills Education for Gifted Students* (2024)  
+  - *Coding, Cryptography, and FinTech (CCF) Skills Education for Gifted Students* (2023)
 
-# Github Status
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=ShingWong08&show_icons=true&theme=tokyonight)](https://github.com/ShingWong08)
-[![GitHub Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/ShingWong08)
+---
+
+# Interests ❤️  
+- Exploring the intersections of **programming**, **networking**, and **cloud computing**.  
+- Tackling complex challenges and building innovative solutions.  
+- Lifelong learning and collaborating with like-minded individuals.  
+
+---
+
+# GitHub Stats 📊  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShingWong08&show_icons=true&theme=tokyonight)](https://github.com/ShingWong08)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShingWong08&layout=compact&theme=tokyonight)](https://github.com/ShingWong08)  
